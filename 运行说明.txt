@@ -1,0 +1,4 @@
+查看readme
+一次运行如下两条命令即可
+npm install
+    grunt
